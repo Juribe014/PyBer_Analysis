@@ -7,6 +7,7 @@ Using python, a summary DataFrame of the ride-sharing data by city type. By usin
 
 ## Raw DataFrame
 The initial summary DataFrames created from the Total Rides, total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver is outputted without formats. This means that the values are shown with out significant figures or commas as separators. Which can leave gaps as a visual representation on the analysis. 
+
 ![Raw DataFrame summary](https://user-images.githubusercontent.com/104809098/174931206-59e0e47d-266f-4271-b3f3-7dd96f706ff4.png)
 
 ## Formatted DataFrame
