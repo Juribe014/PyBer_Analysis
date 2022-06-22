@@ -11,10 +11,12 @@ The initial summary DataFrames created from the Total Rides, total Drivers, Tota
 
 ## Formatted DataFrame
 To format the summary DataFrame, the DataFrmae needs to be indexed. Here all the values are formatted accordingly. All the values for the summary DataFrame was given two significant values and a comma seperator. The values for Total Fares, Average Fare per Ride, and Average Fare per Driver also had the dollar sign annoted them as monetary values. By formatting the DataFrame summary, one can give a better visual representation for reporting purposes. Here we can see the difference per the different type of city types (Rural, Suburban and Urban).  
+
 ![Formated DataFrame](https://user-images.githubusercontent.com/104809098/174931574-0bac0bde-0e87-4345-bfe5-214e58d337d4.png)
 
 ## Plot of Multiple Line graph for weekly fares by city types
-THe multiple line graph plot is used to give longitudinal view on the weekly fares by city types. This method is visually simple and allows one to easily identify trends over time. By color coding and adding a legend, one can give a visual representation of what is being reported without an in-depth explanation. This is also assited by having a title and y-label. 
+The multiple line graph plot is used to give longitudinal view on the weekly fares by city types. This method is visually simple and allows one to easily identify trends over time. By color coding and adding a legend, one can give a visual representation of what is being reported without an in-depth explanation. This is also assited by having a title and y-label. 
+
 ![Line Plot](https://user-images.githubusercontent.com/104809098/174933631-f7c561cb-b0b2-420c-a26b-fe566da4b493.png)
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/104809098/174933596-75f39042-da31-45c2-8043-9dba08e6074d.png)
 
